@@ -1,0 +1,29 @@
+c:\users\stariz-\documents\visual studio 2015\Projects\simple manager\simple manager\bin\Debug\simple manager.exe.config
+c:\users\stariz-\documents\visual studio 2015\Projects\simple manager\simple manager\bin\Debug\simple manager.exe
+c:\users\stariz-\documents\visual studio 2015\Projects\simple manager\simple manager\bin\Debug\simple manager.pdb
+c:\users\stariz-\documents\visual studio 2015\Projects\simple manager\simple manager\obj\Debug\simple manager.csprojResolveAssemblyReference.cache
+c:\users\stariz-\documents\visual studio 2015\Projects\simple manager\simple manager\obj\Debug\simple_manager.Form1.resources
+c:\users\stariz-\documents\visual studio 2015\Projects\simple manager\simple manager\obj\Debug\simple_manager.Properties.Resources.resources
+c:\users\stariz-\documents\visual studio 2015\Projects\simple manager\simple manager\obj\Debug\simple manager.csproj.GenerateResource.Cache
+c:\users\stariz-\documents\visual studio 2015\Projects\simple manager\simple manager\obj\Debug\simple manager.exe
+c:\users\stariz-\documents\visual studio 2015\Projects\simple manager\simple manager\obj\Debug\simple manager.pdb
+c:\users\stariz-\documents\visual studio 2015\Projects\simple manager\simple manager\obj\Debug\simple_manager.forRUnTask.resources
+c:\users\stariz-\documents\visual studio 2015\Projects\simple manager\simple manager\obj\Debug\simple_manager.Form2.resources
+C:\Users\STARIZ-\Documents\Visual Studio 2015\Projects\simple manager\simple manager\obj\Debug\simple_manager.Form3.resources
+C:\Users\STARIZ-\Documents\Visual Studio 2015\Projects\simple manager\simple manager\obj\Debug\simple_manager.Form4.resources
+C:\Users\STARIZ-\Documents\Visual Studio 2015\Projects\simple manager\simple manager\obj\Debug\simple_manager.Form5.resources
+C:\Users\Dell\Desktop\simple manager\simple manager\bin\Debug\simple manager.exe.config
+C:\Users\Dell\Desktop\simple manager\simple manager\bin\Debug\simple manager.exe
+C:\Users\Dell\Desktop\simple manager\simple manager\bin\Debug\simple manager.pdb
+C:\Users\Dell\Desktop\simple manager\simple manager\obj\Debug\simple manager.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\simple manager\simple manager\obj\Debug\simple_manager.Form1.resources
+C:\Users\Dell\Desktop\simple manager\simple manager\obj\Debug\simple_manager.Form2.resources
+C:\Users\Dell\Desktop\simple manager\simple manager\obj\Debug\simple_manager.Form3.resources
+C:\Users\Dell\Desktop\simple manager\simple manager\obj\Debug\simple_manager.Form4.resources
+C:\Users\Dell\Desktop\simple manager\simple manager\obj\Debug\simple_manager.Form5.resources
+C:\Users\Dell\Desktop\simple manager\simple manager\obj\Debug\simple_manager.forRUnTask.resources
+C:\Users\Dell\Desktop\simple manager\simple manager\obj\Debug\simple_manager.Properties.Resources.resources
+C:\Users\Dell\Desktop\simple manager\simple manager\obj\Debug\simple manager.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\simple manager\simple manager\obj\Debug\simple manager.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\simple manager\simple manager\obj\Debug\simple manager.exe
+C:\Users\Dell\Desktop\simple manager\simple manager\obj\Debug\simple manager.pdb
